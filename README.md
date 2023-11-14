@@ -1,6 +1,6 @@
 # TalkMaster
 
-##Introduction & background
+## Introduction & background
 
 The Learning Space Management (LSM) at the University of Toronto (UofT) is the department that manages the central or 'shared' space at University of Toronto - both academic (classroom) spaces & shared community (non-classroom) areas.  LSM also offers services like room information, space booking, tech support, reporting classroom problems, etc.  
 
