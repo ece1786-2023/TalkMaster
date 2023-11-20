@@ -19,7 +19,6 @@ OI 2296,kyle testing,0,0
 MS 4171,no audio to speakers ,0,0
 MS 2172,microphone not working,0,0
 HA 410,"never used room, not sure how it works",0,1
-BR 200,false alarm,0,0
 MY 430,"prof who was previously non-faculty utorid holder can't log in ""this is a recurring issue for me""",0,0
 MS 2172,prof calling in to let us know that she finished the class early and feels uncomfortable leaving the yamaha she had ordered alone in the room,0,1
 PB B150,didn't know how wireless mic worked,0,0
@@ -93,7 +92,6 @@ FE 139,"""really obnoxious sound has been playing in the room since we arrived, 
 LM 161,login,0,0
 OI 2286,"""we got the camera working, looks like the reboot fixed it""",0,0
 SF 1101,asking for remote login,1,0
-BA 2159,false alarm - said they didn't press anything,0,0
 AH 100,wanted to know how to turn on mics,0,0
 MP 202,room pc isn't displaying on preview or the big screen,0,1
 ,"user tried hitting a few keys on the keyboard to wake it up, no dice. he says: no physical access to pc in this room 😢",0,0
@@ -117,7 +115,6 @@ OI 5170,"""can i turn up the volume further on my video""",0,0
 MP 102,already solved,0,0
 MR 6,tm e crash,0,0
 MY 330,two screens: #2 and #3 didn't come on. wasn't able to get the sound onto the speakers in the room,0,1
-MY 420,false alarm,0,0
 SS 1070,system not turning on. ,1,1
 BA 2145,"no image, displays duplicated on pc, and both hdmi cables tried. ",0,0
 SK 100,tsjr walkthrough,0,0
@@ -126,7 +123,6 @@ NL 6,"no idea how to use system, ""how to get to youtube?""",0,0
 SS 2110,no image on projector,0,1
 MS 3154,wanted to know how to toggle between desktop pc screen and touchscreen controls,0,0
 UC 177,"""i require assistance to start the projector""",1,0
-WO 30,false alarm,0,0
 SS 1085,"""i'm trying to lower the projector""",0,0
 MY 440,"""it's my first time using this teaching station""",0,0
 MY 420,"wall-mounted tvs were flickering and going black, back and forth (unusable). prof is wondering how he could solve this if it shows up again next class",0,1
@@ -396,7 +392,6 @@ SS 2127,hmdi broken.,0,1
 KP 108,"no sound from any source, source volume not on mute",0,1
 MC 102,no answer,0,0
 PHONE,someone phoned regarding jr station software - installation on software failed.,0,0
-OI 8201,false alarm,0,0
 CR 103,already solved,0,0
 SS 1086,no display from laptop on big screen,0,1
 SS 2110 ,already solved,0,0
@@ -449,7 +444,6 @@ SS 1087,no image,0,0
 SK 548,projector not displaying,0,0
 MS 3153,no image/unfamiliar w the system in room,0,0
 NL 6,couldn't open microphone cabinet,0,0
-SS 2101 ,false alarm,0,0
 BL 112,cannot connect laptop to projector,1,1
 SS 2110,wanted to know how to get a tech2u pc for this room,0,0
 UC 244,wrong image up on screen,0,1
@@ -463,7 +457,6 @@ OI 2211,no audio,0,1
 EM 119,didn't know how to get started,0,0
 MS 3278,needs a walkthrough,0,1
 BL 205,called through the telephone: utorid won't work,0,0
-BA 2195,false alarm,0,0
 HS 610,lav mic not sending to room?,0,1
 BA 1180,no image,0,0
 BA 2135,enable,0,0
@@ -552,11 +545,7 @@ MS 2172,"getting ""no login network available"".",0,0
 BA 1240,(c) booking login with booking.,0,0
 BA 2175,(c) booking login with booking.,0,0
 SK 548,power on station,0,0
-MS 2158,false alarm,0,0
-MY 380,false alarm,0,0
 OI 5240,enable station,0,0
-BA 1170,false alarm,0,0
-BA 2175,false alarm,0,0
 UC 163,missed call (doing strike at oi),0,0
 BA 2195,missed call (doing strike at oi),0,0
 BA 2195 ,after hours call.  ,0,0
@@ -649,7 +638,6 @@ MP 134,already solved,0,0
 OI 8201,"""i need help getting my video up""",0,0
 OI 8200,wanted to book a dvd player for next class,0,0
 SS 1073,pc not displaying,0,1
-CH,false alarm,0,0
 BL 205,phone call. downloaded occs stream and it failed. apparently it's not saved to the cloud. was calling to see if there was anyone they could contact,0,0
 PB B250,"""the second monitor isn't working""",0,1
 ,"""the second monitor"" in pb b250 is not working. they're adamant about having a technician come",0,0
@@ -702,12 +690,10 @@ SS 1072,"said he needed projector on, couldn't get image, said that something is
 BT 101,needs new mic batteries,0,1
 MY 360B,log in request,0,0
 OI 2198,projector screen not showing image,0,0
-GB 303,false alarm,0,0
 SF 2202,no image,0,0
 MR 6,tm e crash,0,0
 UC A101,couldn't enter utor id on touch screen,0,0
 SF 2202,image disappeared,0,0
-BL 112,false alarm,0,0
 UC A101,the student displays aren't showing hdmi,0,1
 SF 3202,batteries,0,0
 WB 219,connect laptop,1,0
@@ -746,7 +732,6 @@ WI 524,projector not turning on,0,1
 BA 1200,having trouble unlocking mic cabinet,0,0
 OI 2214,resolved,0,0
 SS 2106,hdmi image is flickering,0,1
-MY 440,false alarm,0,0
 MY 320,no image,0,0
 SS 1088,unable to connect to projector,0,0
 UC 244,"no image, would like help so someone can show him what the fix is as all of his other rooms ""just work""",0,0
@@ -772,7 +757,6 @@ MR 6,system crash,0,0
 SS 2102,video; no video when playing sound off of power point/youtube etc.,0,1
 MP 102,can't find w/l mic,0,0
 HS 106,asking why her login might not work,0,0
-My 360,false alarm,0,0
 SS 1085,"logged off, projector not turning off",1,1
 BL 312,macbook projector help,0,1
 BA 1240,how do you turn off the projector? ,0,0
@@ -792,7 +776,6 @@ BA 2185,projector not showing,0,1
 BA 2165,overnight,0,0
 BA 1210,overnight,0,0
 LM 162,overnight,0,0
-MC 254,false alarm,0,0
 OI 2295,image not showing up on,0,0
 OI 5290,tv not turning on,0,1
 OI 8201,"""i'm good, thanks""",0,0
@@ -803,7 +786,6 @@ MR 6,headset input very low.,0,0
 UC 244,ipad image all good.,0,0
 BA 2175,room pc not sending to projector,0,0
 NF 003,where is the projection screen controls.,0,0
-CR 403,false alarm,0,0
 BA 1160,self-resolved.,0,0
 WO 30,hdmi 1 not sending to projector,0,0
 BA 1170,needs batts,0,1
@@ -940,7 +922,6 @@ SK 548,"she phoned first, but phone call had a heavy buzz in communicator 7. ask
 ,"says ""this happened last week, the big screen is not coming on, can you teach me what to do?""",0,0
 ,"dinger continued thru the call in talkmaster app too, had to restart operator app  after the call.",0,0
 OI 5150,"""hold on""",0,0
-SK 218,false alarm,0,0
 SK 100,re-enable,0,0
 SS 2110,asking where her assist was,0,0
 SF 3201,"""system is freezing up, it won't let me log off. and i'm concerned it won't record my occs stream""",1,1
@@ -971,7 +952,6 @@ UC 87,self-resolved projector issue.,0,0
 SS 2111,self-resolved projector issue.,0,0
 UC 144,resolved.,0,0
 UC 87,projector keeps turning on and off.,0,1
-MY 360B,"""sorry, false alarm""",0,0
 UC 244,was frustrated that his screen was in extended,0,0
 WW 121,"getting very low volume from youtube video despite turning up source, youtube, and system volumes.",0,1
 SF 3202,wireless lav doesn't work. instructor said the previous instructor reported the same thing.,0,1
@@ -987,7 +967,6 @@ BA 2179,ipad can't connect to station,0,1
 MY 350,all the screens turned off.,0,1
 UC 179,aws and reme testing,0,0
 UC 177,wanted to know where projector was,0,0
-BA 1200,false alarm,0,0
 SS 1073,enable,0,0
 WW 120,"""i can't see my screen""",0,0
 MY 480,no answer,0,0
@@ -1080,7 +1059,6 @@ BA 2145,no staff on duty,0,0
 BA 2145,no answer/overnight,0,0
 MS 2158,no answer,0,0
 OI 5160,"""i solved my own problem""",0,0
-NF 003,false alarm,0,0
 SF 1101,jon testing,0,0
 BA 2139,station was asleep,0,0
 BA 2139,"""my image isn't projecting""",0,0
@@ -1131,7 +1109,6 @@ MY 330,login,0,0
 NL 6,"they found the light switch, calling to cancel caretaking call",0,0
 MY 360B,login. unable to communicate his issue with an adapter problem,0,1
 ES 1050,needs batteries,0,1
-MP 103,false alarm,0,0
 MR 6 ,tm w operator console crash,0,0
 MY 440,"""i forgot my utorid password""",0,0
 AB 114,"""my projector isn't projecting""",0,0
@@ -1391,7 +1368,6 @@ SS 2117,matt testing intercom,0,0
 MY 330,login,0,0
 OI 2296,can't get screen down,0,0
 MY 330,hdmi cables not working,0,1
-SS 1074,false alarm,0,0
 MY 490,log in request,0,0
 BA B024,fixed it,0,0
 GB 248,none of the adapters in room fit my computer,0,0
@@ -1512,7 +1488,6 @@ PB B250,door is locked to classroom,0,0
 OI 5290,some problems with the image being intermittent on the screen ,0,1
 SS 1070,projector not turning on,0,0
 UC 256,projector turned off midclass ,0,1
-SK 218,false alarm,0,0
 OI 10204,station randomly turned off,0,0
 MS 2170,log in,0,0
 SS 2114,no hdmi connection. user said last week it was a dongle issue.,0,1
@@ -1662,7 +1637,6 @@ ES 1050,already solved,0,0
 MR 6,tm e crash,0,0
 OI 2279,projector not projecting,0,1
 UC 256,projector turned off midclass ,0,1
-SK 218,false alarm,0,0
 OI 10204,station randomly turned off,0,0
 SS 2120,display turned off,0,0
 WW 121,no image sending to projector,0,0
@@ -1680,17 +1654,14 @@ WI 1016,batteries,0,0
 MY 360B,airmedia not connecting,0,1
 NF 003,projector not turning on,0,1
 LM 162,enable,0,0
-OI 2205,false alarm,0,0
 LM 162,previous prof left a power supply in class,0,1
 WB 119,source not sending to left projector,0,1
 OI 5170,doesn't know how anything works.,0,1
-MC 102,false alarm,0,0
 RL 14190,source not sending to display,0,0
 ES 4001,preview window not displaying...using desktop pc,0,1
 SS 1087,not sure. said they'll call back post-class,1,0
 MC 254,already solved,0,0
 GB 303 ,no image,0,0
-MC 254,false alarm,0,0
 ES B142,no power in the outlets in the room,0,0
 SS 2120,"monitor not turning on, need help setting up zoom",0,0
 HS 618,no answer,0,0
@@ -1814,7 +1785,6 @@ WW 120,their screen just turned off for no reason and they are using room pc,0,1
 WB 116,figured it out,0,0
 BA 2185,laptop is not projecting,0,1
 WB 116,on room pc but audio is not playing through speakers,0,1
-OI 4422,false alarm,0,1
 HS 610,telling us the class is over but the projector is still on even though they are logged off,1,0
 MY 350,projector issue,0,0
 MY 320,can't connect laptop again,1,1
@@ -1844,10 +1814,8 @@ MY 360B,login,0,0
 MY 315,first time user,0,0
 MC 102,image not sending to projector,0,1
 MC 102,following up,0,0
-BA 2155,false alarm,0,0
 MR 6,tm e crash,0,0
 BA 1190,login,0,0
-BA 1130,false alarm,0,0
 LM 161,login,0,0
 MY 320,touchscreen displaying black,0,1
 MP 102,batteries,0,1
@@ -1877,7 +1845,6 @@ MY 430,enable,0,0
 MY 360B,several monitors off,0,0
 BA 1230,asking where help was (she declined help earlier),0,1
 MR 6,tm e crash,0,0
-BA 1220,false alarm,0,0
 BA 1130,"""shhh....shh... why did you press that button?""",0,0
 GB 120,enable,0,0
 BA 1240,enable,0,0
@@ -2336,7 +2303,6 @@ MY 420,"calling back to say ""it's working now""",0,0
 SS 1078,the main screen doesn't have the right image,0,0
 MC 252,"""can you please send fresh batteries""",0,0
 LM 155,projector not turning on,0,0
-BL 113,false alarm,0,0
 OI 5170,log in request,0,0
 UC 87,reporting that the display port adapter not working in this room. have their own and it worked. thought we should know.,1,0
 BA 2145,log in request,0,0
@@ -2785,7 +2751,6 @@ MS 3154,no answer,0,0
 LM 161,en,0,0
 CR 103,same issue with power,0,1
 BA 2155,"no display, tried changing sources but nothing",1,1
-WW 120,false alarm,0,0
 BA 1170,"touchscreen freezing, ext mic port not responding",1,0
 GB 221,"""none of the microphones in this room are working""",1,1
 BL 205,en,0,0
@@ -2841,7 +2806,6 @@ MY 317,"trying to get zoom working via room pc. instructor can't hear zoom parti
 OI G162,"""is there anyway to turn off the lights that light up the stage and the room?""",0,0
 MS 2158,"""it was very laggy we're ok now""",0,0
 OI 2198,error,0,0
-AH 100,false alarm,0,0
 BL 113,"image keeps dropping, then monitor not responding to on/off commands",0,1
 GB 220,projector not turning on.,0,0
 SF 3201,"first time using system. tried to walk them through, but they don't know anything about their device other than it's mac and ""these questions aren't for me""",0,1
@@ -2883,7 +2847,6 @@ SS 1085,"no image, prof says adapter looks worse for wear",0,1
 SS 1085,following up,0,0
 HS 108,lowering the screen and logging in help,0,0
 SS 2118,"""can you turn on the microphone?""",0,0
-SS 2106,false alarm,0,0
 MC 102,desktop pc not working,0,0
 LM 159,having trouble with the handheld mic,1,1
 SS 2125,can you turn projector on,0,0
@@ -2932,7 +2895,6 @@ BA 2179,can't turn on tv,0,0
 SS 2106,wanted to know how to change the contrast/brightness of the screen,0,1
 BA B024,log in,0,0
 UC 152,projector not on,0,0
-RL 14190,false alarm,0,0
 HS 106,guest presenter is looking for a charger for the hp spectre,0,0
 BA 1160,out of hours call,0,0
 HS 100,how do i get the screen down,0,0
@@ -3033,7 +2995,6 @@ ES 1050,login request,0,0
 MP 203,"""i just figured it out""",0,0
 BF 315,controller is offline,0,1
 LM 159,"""the podium mic and the wireless mic are not working""",1,0
-BF 315,false alarm,0,0
 ES B149,"job talk here later today, can you log us in to test things out",0,0
 KP 108,"instructor says projector isn't coming on
 
@@ -3055,7 +3016,6 @@ SK 548,"""sorry, i touched a button i shouldn't have""",0,0
 ES 1050,batteries,0,1
 MP 118,"""my laptop image is on the touchscreen, but it's not coming up on the tvs""",0,0
 WO 35,prof. needed help setting up,0,0
-SS 2120,false alarm,0,0
 PB 850,login,0,0
 RL 14190,can't get their mac on screen,0,1
 UC 161,can't get video up,0,0
@@ -3067,7 +3027,6 @@ MB 128,wireless lav missing,0,1
 GB 303,touchscreen is black after touching it,1,1
 MS 3153,needs batteries,0,1
 LM 162,"""could you please log me in, i'm running late to a set-up""",0,0
-BA B025,false alarm,0,0
 PB B250,"""touschscreen caps-lock is stuck on""",1,0
 ES B149,"""i'm with astronomy, i've got someone doing a job talk here, can you log me in?""",0,0
 LM 162,"glx mic missing, can't find it in the usual place. instructor is using podium mic but would like us to deliver a replacement",1,1
@@ -3110,7 +3069,6 @@ OI 4426,projector won't turn on via tsjr nor remote controls.,0,1
 MP 118,"""we don't need help thank you""",0,0
 SF 1105,battery ran out,0,0
 MS 4279,no android tablet image with adapter.,0,1
-SS 2125,false alarm,0,0
 MY 430,remote login.,0,0
 LM 162,didn't know how to work the rode mic,0,0
 GB 304,pc not turning on.,0,0
@@ -3122,8 +3080,6 @@ IN 204,still looking for the dongle.,1,0
 HS 106,first time using ts,0,1
 UC A101,one of the tvs isn't displaying anything.,0,1
 SK 114,projector won't turn on via tsjr controls nor remote controls.,0,1
-BL 112,false alarm,0,0
-BA 2195,false alarm,0,0
 FE 139,enable.,0,0
 BL 112,neither dongles in the room fit their hp laptop.,0,1
 WB 119,can't turn off projector 1. keeps getting the cooldown message.,0,0
@@ -3444,7 +3400,6 @@ WI 523,not projecting,0,0
 MS 3278,log in assistance,0,0
 OI G162,need batteries for their lapel mic,0,1
 BA 1190,batteries,0,1
-BA 2139,false alarm,0,0
 BA 2139,wanted access to the podium without the room being booked out,0,0
 WO 25,wanted to order a wireless mic,0,0
 OI G162,upset room didn't have a wireless lav,0,0
@@ -3484,7 +3439,6 @@ BA 1160,batteries,0,1
 SK 114,projector not turning on ,0,1
 OI 2198,hdmi cable missing from station?,0,1
 OI 2198,she found the hdmi cable ,0,0
-HS 100,false alarm,0,0
 SK 720,projector isn't turning on,0,1
 RL 14190,projector shut off mid lecture,0,0
 SK 720,following up,0,0
@@ -3493,7 +3447,6 @@ MY 440,one of the monitors isn't turning on,0,1
 UC 85,projector not turning on from prompts at the station or remotely,0,1
 WO 30,desktop pc displaying with projector but not in preview,0,1
 BL 325,"no image ""check input terminal""",0,1
-SK 720,false alarm,0,0
 MS 3153,couldn't switch sources.,0,0
 WW 121,weird error message. sent ian c,1,1
 MP 103,batteries for lav,0,0
@@ -3637,7 +3590,6 @@ MC 254,room pc showing blue screen,0,1
 SS 2105,"saying dongle doesn't work with their mac, but hers does",0,0
 WB 119,no image,0,0
 MY 350,log in request,0,0
-MS 2170,false alarm,0,0
 HS 106,no image,0,1
 SS 1087,wasn't getting any sound from dvd player,0,1
 BA 2185,not projecting,0,0
@@ -3808,7 +3760,6 @@ SS 2127,no image,0,0
 MS 3153,didn't know how to use the podium,0,0
 SS 1078,not projecting,0,1
 MS 3153,tapping noise coming out of the speakers and everything is muted,0,1
-HS 610,false alarm,0,0
 BA 2175,no power on the podium,0,0
 BA 2175,not projecting,0,1
 GB 303,"can't get touchscreen on, it's worked for him every week in the past.",0,1
@@ -3856,7 +3807,6 @@ GB 244,"can't get image up
 
 he's trying to use an hdmi device, but when i sent room pc to projector, he said ""nothing is on the big screen""",0,0
 OI 2205,"couldn't get sound from their laptop, alexr walked her to her sound settings, someone in room helped  switch her over",0,1
-SF 1105,false alarm.,0,0
 SK 346,"""can you turn the projector on, please""
 
 had to disable & reenable to get the projector on, but it looks like that's working
@@ -3935,7 +3885,6 @@ SS 1070,needed help projecting,0,0
 LM 159,clip on mic needs batteries,0,1
 BA 2145,login,0,0
 SF 1101,sound is muffled,0,0
-WO 20,false alarm,0,0
 HS 610,marc testing intercom,0,0
 MY 350,needs a tech for a re-occuring issue every week,0,1
 MS 2158,batteries,0,1
@@ -4046,7 +3995,6 @@ i remotely disabled & re-enabled, but projector stayed on
 but her image isn't going up
 
 might be something simple with her laptop. but because projector seems to have lost sync in some way, sending someone to the room",1,1
-UC 261,false alarm,0,0
 OI 5150,"""i've rebooted the pc, but it's still just showing a blue image""
 
 tried changing inputs, didn't fix
@@ -4170,7 +4118,6 @@ CR 403,usb-c to hdmi dongle,0,1
 PB 850,doesn't know how to access system,0,1
 UC 179,fanny pack with batteries left,0,1
 UC 65,can't find power outlet,0,1
-AH 107,false alarm,0,0
 SK 100,already resolved,0,0
 SK 218,projector isn't turning on,0,1
 BA 1160,already solved,0,0
@@ -4223,7 +4170,6 @@ BA 2145,checking in regarding the borrowed dongle.,0,0
 MY 490,displays are green,0,1
 AH 107,buttons on the teaching station don't work.,0,0
 MC 254,room pc screen blue,0,1
-SS 2105,false alarm.,0,0
 CR 404,log in request,0,0
 MS 2158,double a batteries,0,1
 BA 2145,wasn't projecting,1,0
@@ -4454,7 +4400,6 @@ UC A101,called back to say she's testing using ipad through podium mic,1,1
 HS 614,screen just went dead,0,0
 PB B150,showing as disconnected in fusion,0,0
 SS 2108,projector turned off,0,0
-SK 100,false alarm,0,0
 BA 1200,"wireless keyboard issue, light staying on briefly then turning off",0,1
 OI 5260,wasn't projecting,0,1
 SS 1086,couldn't get image up - same device he's used in same room other times (mac),1,1
@@ -4682,7 +4627,6 @@ ES 1050,asked for podium mic,0,0
 MY 315,wanted to use room pc - not turned on,0,0
 BA 2185,no keyboard or mouse in room,0,0
 SS 1069,saw the button pressed it but not an emergency,0,0
-MY 430,false alarm,0,0
 MY 430,called about a noise coming through the speakers,0,1
 BA 2165,log in wasn't working can we log them on,0,0
 MS 3154,screen not projecting,0,1
