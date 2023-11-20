@@ -155,7 +155,6 @@ WB 219,no answer,0,0
 SS 1088,called to let us know they're all done,0,1
 SF 1105,wireless mouse not working,0,1
 CR 403,test to re-enable system,0,0
-SF 1105,no staff on duty,0,0
 MR 6,"call came in, but tm w operator didn't ring and only showed a highlighted and empty line in the queue.",0,0
 OI 5290,internet not working.,0,0
 PB 255,"tried logging into the teaching station nine times, but got ""authentication failed"". could log in fine on uoft sites on their own device.",1,0
@@ -1055,7 +1054,6 @@ MY 430,after hours,0,0
 MY 320,after hours,0,0
 MY 370,after hours,0,0
 BA 1130,could not get sound through laptop,0,0
-BA 2145,no staff on duty,0,0
 BA 2145,no answer/overnight,0,0
 MS 2158,no answer,0,0
 OI 5160,"""i solved my own problem""",0,0
@@ -1546,7 +1544,6 @@ SF 1101,request for login,0,0
 WI 523,"was having trouble logging in - logged them in.
 
 subsequently had trouble getting into extended mode - had to send amy in the end.",0,1
-BA B024,no staff on duty,0,0
 CR 103,login request,0,0
 OI 5290,"all my tools for remote access can enable, but they can't successfully turn the tv on
 
@@ -2093,7 +2090,6 @@ ES 1050,mic issue,0,0
 BA 2159,projector stopped working,0,0
 WO 35,log in request,0,0
 BA 2159,projector keeps turning on and off,0,0
-ES B142,no staff on duty,0,0
 OI 4426,"""there's a disturbing noise, it's a high-scratch noise coming from the speakers, it's disrupting my teaching""",1,1
 MY 440,"intercom crashed, mike couldn't answer call",0,0
 MR 6,tm w crash,0,0
@@ -2454,9 +2450,6 @@ MY 440,"screen ""died"" again",0,1
 WO 35,log in request,0,0
 BL 313,blank screen ,0,1
 MY 360B,wasn't getting anything projected,0,0
-BA B025,no staff on duty,0,0
-BA 2179,no staff on duty,0,0
-BA 2185,no staff on duty,0,0
 BA 2155,"""i was wondering if you could unlock the microphone cabinet - i'd like to see if there are additional hdmi cables in there""",1,0
 MB 128,projector not turning on,0,1
 BT 101,"instructor says projector isn't coming on, complains this is the third week in a row that's happened.
@@ -3697,7 +3690,6 @@ OI 5150,room pc shows a blue screen. pc is confirmed on.,0,1
 HS 108,how to get screen down,0,0
 WI 523,login.,0,0
 WI 523,how to mirror displays on macos big sur v11.14.,0,0
-MY 430,no staff on duty,0,0
 OI 2279,"""hi, can you turn on the projector please""",0,0
 SF 1105,"""the touchscreen isn't coming on""",0,0
 CR 404,"""can you switch to the hdmi""",0,1
@@ -4407,7 +4399,6 @@ BL 113,sound wasn't playing,0,0
 MY 150,hdmi's aren't working for their ipad,0,1
 HA 410,needed to log out,0,0
 SS 2125,nothing displaying or working,0,0
-BA 2175,no staff on duty,0,0
 OI 8200,disconnected from all talkmaster tools. station probably just unplugged,0,1
 PB B250,"powerpoint on room pc is opening presentation, but appears to be minimized. can't get it to display",1,0
 BL 325,"everything ok, just impatient for it to warm up",0,0
