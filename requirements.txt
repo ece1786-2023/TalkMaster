@@ -1,0 +1,10 @@
+langchain
+transformers
+unstructured
+pypdf
+llama-index ipywidgets
+bitsandbytes 
+accelerate
+pydantic==1.10.11
+sentence-transformers
+chromadb
