@@ -1,10 +1,11 @@
-langchain
-transformers
-unstructured
-pypdf
-llama-index ipywidgets
-bitsandbytes 
-accelerate
+langchain==0.0.350
+transformers==4.35.2
+unstructured==0.11.2
+pypdf==3.17.2
+llama-index==0.9.13
+ipywidgets==7.7.1
+bitsandbytes==0.41.3.post2
+accelerate==0.25.0
 pydantic==1.10.11
-sentence-transformers
-chromadb
+sentence-transformers==2.2.2
+chromadb==0.4.18
